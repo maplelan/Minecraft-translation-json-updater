@@ -2,7 +2,7 @@
 updata Minecraft mod translation json 更新Minecraft模組翻譯文件
 
 EX:
-1.輸入舊版文件:
+1.輸入舊版文件:\n
 {
 
 	"_": "->------------------------]  Game Elements  [------------------------<-",
@@ -15,7 +15,7 @@ EX:
 	
 	"_": "謝謝您翻譯Creat!"
 
-}
+}\n
 2.輸入新版文件:
 {
 
