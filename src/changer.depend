@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1611398497 source:c:\users\maplelan\downloads\changer\changer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+
+1611398497 source:d:\maplelan資料\code\minecraft trans changer\changer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+
+1611462291 source:d:\maplelan資料\code\minecraft trans changer\changer\icon.rc
+
+1611462291 source:d:\maplelan資料\code\minecraft translation json updater\changer\icon.rc
+
+1611464904 source:d:\maplelan資料\code\minecraft translation json updater\changer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+
+1611462291 source:d:\maplelan資料\code\minecraft translation json updater\minecraft translation json updater\icon.rc
+
+1611465461 source:d:\maplelan資料\code\minecraft translation json updater\minecraft translation json updater\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<windows.h>
+	<algorithm>
+
